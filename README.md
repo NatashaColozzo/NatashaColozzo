@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NatashaColozzo
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript
+- 😄 Pronouns: She/Her
